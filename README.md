@@ -1,8 +1,8 @@
 # Weather app
 
-A simple weather app allows theuser to search the current weather conditions by city name.
+A simple weather app allows the user to search the current weather conditions by city name.
 
-Weather app using open weather API.
+Weather app using open weather API.\
 This projects requires open weather API key.
 
 ## Available Scripts
